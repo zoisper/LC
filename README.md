@@ -1,1 +1,1 @@
-# CC
+# Logica Computacional
